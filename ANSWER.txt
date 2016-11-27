@@ -1,0 +1,19 @@
+1. In your own words, what is recursion?
+
+ANSWER 1. Recursion is a function that calls itself. A recursive function must always check for a condition to determine if it should call itself again or not, or a base case.
+
+2. Why is it necessary to have a base case?
+
+ANSWER 2. A base case is something the function is goign to calacualte or achieve s othat the function knows when to end. Otherwise it woudl keep going.
+
+3.What is a graph?
+
+ANSWER 3. THey are structures used to show relations between objects. A graph is made up of nodes which are connected by edges. 
+
+4. How is a graph different from a tree?
+
+ANSWER 4. A graph has loops, trees cannot.
+
+5.Give an example of something that would be good to model with a graph.
+
+ANSWER 5. A hiking trail map with intersecting trails, there are more than one way to get from point to point.
